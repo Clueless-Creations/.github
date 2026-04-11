@@ -27,10 +27,10 @@ We build primarily with Python, Dart/Flutter, TypeScript, and Swift. Our agent i
 [Flutter](https://github.com/flutter/flutter) (mobile apps) -- [Supabase](https://github.com/supabase/supabase) (database and auth) -- [Riverpod](https://github.com/rrousselGit/riverpod) (Flutter state management) -- [Postiz](https://github.com/gitroomhq/postiz-app) (social media scheduling) -- [PostHog](https://github.com/PostHog/posthog) (product analytics)
 
 **Paid services:**
-[Anthropic Claude](https://anthropic.com) (AI agent runtime) -- [OpenAI Codex](https://openai.com/codex) (AI coding agent) -- [Stripe](https://stripe.com) (payments) -- [RevenueCat](https://revenuecat.com) (subscriptions) -- [Notion](https://notion.so) (planning and review surface) -- [MobAI](https://mobai.dev) (mobile device automation) -- [Xpoz](https://xpoz.app) (social intelligence) -- [Firecrawl](https://firecrawl.dev) (web scraping) -- [AppFigures](https://appfigures.com) (app intelligence) -- [Mercury](https://mercury.com) (banking) -- [Wispr Flow](https://wispr.com) (voice-to-text)
+[Anthropic Claude](https://anthropic.com) (AI agent runtime) -- [OpenAI Codex](https://openai.com/codex) (AI coding agent) -- [Stripe](https://stripe.com) (payments) -- [RevenueCat](https://revenuecat.com) (subscriptions) -- [Notion](https://notion.so) (planning and review surface) -- [Substack](https://substack.com) (newsletter) -- [MobAI](https://mobai.dev) (mobile device automation) -- [Xpoz](https://xpoz.app) (social intelligence) -- [Firecrawl](https://firecrawl.dev) (web scraping) -- [AppFigures](https://appfigures.com) (app intelligence) -- [Mercury](https://mercury.com) (banking) -- [Wispr Flow](https://wispr.com) (voice-to-text) -- [Google Cloud](https://cloud.google.com) (infrastructure) -- [App Store Connect](https://appstoreconnect.apple.com) (app distribution)
 
 **Dev tools:**
-Xcode -- Git -- Claude Code -- Rork
+[Xcode](https://developer.apple.com/xcode/) -- [Claude Code](https://claude.ai/claude-code) -- [Rork](https://rork.app) -- Git -- GitHub
 
 ## Connect
 
