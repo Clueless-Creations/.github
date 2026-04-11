@@ -21,12 +21,13 @@ Every tool we publish started as an internal capability. When something proves u
 
 We build primarily with Python, Dart/Flutter, TypeScript, and Swift. Our agent infrastructure runs on the [Model Context Protocol (MCP)](https://modelcontextprotocol.io).
 
-## Open-Source Projects We Use
+## Our Stack
 
-- [Postiz](https://github.com/gitroomhq/postiz-app) -- Social media scheduling and analytics
-- [Supabase](https://github.com/supabase/supabase) -- Postgres database and auth
-- [RevenueCat](https://github.com/RevenueCat) -- Subscription infrastructure
-- [Riverpod](https://github.com/rrousselGit/riverpod) -- State management for Flutter
+**Open source:**
+[Supabase](https://github.com/supabase/supabase) (database and auth) -- [Riverpod](https://github.com/rrousselGit/riverpod) (Flutter state management) -- [Postiz](https://github.com/gitroomhq/postiz-app) (social media scheduling) -- [Flutter](https://github.com/flutter/flutter) (mobile apps)
+
+**Paid services:**
+[Stripe](https://stripe.com) (payments) -- [RevenueCat](https://revenuecat.com) (subscription infrastructure) -- [MobAI](https://mobai.dev) (mobile device automation) -- [Anthropic Claude](https://anthropic.com) (AI agent runtime) -- [Firecrawl](https://firecrawl.dev) (web scraping)
 
 ## Connect
 
