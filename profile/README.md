@@ -11,7 +11,6 @@ Clueless Creations is a portfolio of agent-operated businesses. AI agents handle
 **Open-source tools** extracted from the internal stack and published for other builders:
 
 - **[app-store-connect-mcp](https://github.com/Clueless-Creations/app-store-connect-mcp)** -- MCP server for App Store Connect automation (listings, screenshots, versions, experiments, custom product pages)
-- **[postiz-content-mcp](https://github.com/Clueless-Creations/postiz-content-mcp)** -- MCP server for Postiz content operations (drafts, scheduling, media uploads)
 - **[rc-insights](https://github.com/Clueless-Creations/rc-insights)** -- Agent-ready subscription analytics for RevenueCat's Charts API
 - **[riverpod-knowledge-graph](https://github.com/Clueless-Creations/riverpod-knowledge-graph)** -- Pinned Riverpod documentation snapshots and MCP audit tools for Flutter repos
 
@@ -22,3 +21,10 @@ Clueless Creations is a portfolio of agent-operated businesses. AI agents handle
 Every tool we publish started as an internal capability. When something proves useful enough, we extract it as a standalone open-source project. The portfolio generates real products; the tooling compounds across all of them.
 
 We build primarily with Python, Dart/Flutter, TypeScript, and Swift. Our agent infrastructure runs on the [Model Context Protocol (MCP)](https://modelcontextprotocol.io).
+
+## Open-Source Projects We Use
+
+- [Postiz](https://github.com/gitroomhq/postiz-app) -- Social media scheduling and analytics
+- [Supabase](https://github.com/supabase/supabase) -- Postgres database and auth
+- [RevenueCat](https://github.com/RevenueCat) -- Subscription infrastructure
+- [Riverpod](https://github.com/rrousselGit/riverpod) -- State management for Flutter
