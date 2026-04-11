@@ -24,10 +24,13 @@ We build primarily with Python, Dart/Flutter, TypeScript, and Swift. Our agent i
 ## Our Stack
 
 **Open source:**
-[Supabase](https://github.com/supabase/supabase) (database and auth) -- [Riverpod](https://github.com/rrousselGit/riverpod) (Flutter state management) -- [Postiz](https://github.com/gitroomhq/postiz-app) (social media scheduling) -- [Flutter](https://github.com/flutter/flutter) (mobile apps)
+[Flutter](https://github.com/flutter/flutter) (mobile apps) -- [Supabase](https://github.com/supabase/supabase) (database and auth) -- [Riverpod](https://github.com/rrousselGit/riverpod) (Flutter state management) -- [Postiz](https://github.com/gitroomhq/postiz-app) (social media scheduling) -- [PostHog](https://github.com/PostHog/posthog) (product analytics)
 
 **Paid services:**
-[Stripe](https://stripe.com) (payments) -- [RevenueCat](https://revenuecat.com) (subscription infrastructure) -- [MobAI](https://mobai.dev) (mobile device automation) -- [Anthropic Claude](https://anthropic.com) (AI agent runtime) -- [Firecrawl](https://firecrawl.dev) (web scraping)
+[Anthropic Claude](https://anthropic.com) (AI agent runtime) -- [OpenAI Codex](https://openai.com/codex) (AI coding agent) -- [Stripe](https://stripe.com) (payments) -- [RevenueCat](https://revenuecat.com) (subscriptions) -- [Notion](https://notion.so) (planning and review surface) -- [MobAI](https://mobai.dev) (mobile device automation) -- [Xpoz](https://xpoz.app) (social intelligence) -- [Firecrawl](https://firecrawl.dev) (web scraping) -- [AppFigures](https://appfigures.com) (app intelligence) -- [Mercury](https://mercury.com) (banking) -- [Wispr Flow](https://wispr.com) (voice-to-text)
+
+**Dev tools:**
+Xcode -- Git -- Claude Code -- Rork
 
 ## Connect
 
