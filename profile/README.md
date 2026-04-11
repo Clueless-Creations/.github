@@ -28,3 +28,10 @@ We build primarily with Python, Dart/Flutter, TypeScript, and Swift. Our agent i
 - [Supabase](https://github.com/supabase/supabase) -- Postgres database and auth
 - [RevenueCat](https://github.com/RevenueCat) -- Subscription infrastructure
 - [Riverpod](https://github.com/rrousselGit/riverpod) -- State management for Flutter
+
+## Connect
+
+- [X / Twitter](https://x.com/EduMuthMartinez)
+- [LinkedIn](https://www.linkedin.com/in/eduardomuthmartinez)
+- [The Compounding Founder](https://thecompoundingfounder.substack.com)
+- [Clueless Clothing](https://clueless.clothing)
