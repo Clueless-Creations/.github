@@ -11,7 +11,6 @@ Clueless Creations is a portfolio of agent-operated businesses. AI agents handle
 **Open-source tools** extracted from the internal stack and published for other builders:
 
 - **[app-store-connect-mcp](https://github.com/Clueless-Creations/app-store-connect-mcp)** -- MCP server for App Store Connect automation (listings, screenshots, versions, experiments, custom product pages)
-- **[rc-insights](https://github.com/Clueless-Creations/rc-insights)** -- Agent-ready subscription analytics for RevenueCat's Charts API
 - **[riverpod-knowledge-graph](https://github.com/Clueless-Creations/riverpod-knowledge-graph)** -- Pinned Riverpod documentation snapshots and MCP audit tools for Flutter repos
 
 **Media** via [The Compounding Founder](https://thecompoundingfounder.substack.com), a newsletter for founders building with AI.
