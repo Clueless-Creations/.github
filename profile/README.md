@@ -2,40 +2,43 @@
 
 We run businesses with agents, and we open-source the tools that come from doing it.
 
-Clueless Creations is a portfolio of agent-operated businesses. AI agents handle discovery, design, build, launch, growth, and operations. Humans stay in the loop for judgment and authority. The system that runs these businesses is itself the most leveraged thing we build.
+GitHub has no repo folders. Products are grouped with [teams](https://github.com/orgs/Clueless-Creations/teams) and topics. Locally they live under `~/Clueless Creations`.
 
-## What We Ship
+## Clothing
 
-**Consumer products** built and operated by agents: [Clueless Clothing](https://clueless.clothing), BatchList, TripCraft.
+- [clueless_clothing_flutter](https://github.com/Clueless-Creations/clueless_clothing_flutter) — iOS app
+- [clueless_clothing_backend](https://github.com/Clueless-Creations/clueless_clothing_backend) — API
+- [clueless_clothing_web](https://github.com/Clueless-Creations/clueless_clothing_web) — marketing site
+- [clueless_clothing_dashboard](https://github.com/Clueless-Creations/clueless_clothing_dashboard) — analytics
+- [clueless-clothing-business](https://github.com/Clueless-Creations/clueless-clothing-business) — business workspace
 
-**Open-source tools** extracted from the internal stack and published for other builders:
+Site: [clueless.clothing](https://clueless.clothing)
 
-- **[app-store-connect-mcp](https://github.com/Clueless-Creations/app-store-connect-mcp)** -- MCP server for App Store Connect automation (listings, screenshots, versions, experiments, custom product pages)
-- **[google-play-store-mcp](https://github.com/Clueless-Creations/google-play-store-mcp)** -- Secure, dry-run-first Google Play Store listing automation for CLI workflows and MCP agents
-- **[riverpod-knowledge-graph](https://github.com/Clueless-Creations/riverpod-knowledge-graph)** -- Pinned Riverpod documentation snapshots and MCP audit tools for Flutter repos
+## Ocho
 
-**Media** via [The Compounding Founder](https://thecompoundingfounder.substack.com), a newsletter for founders building with AI.
+- [rork-ocho](https://github.com/Clueless-Creations/rork-ocho) — iOS app
+- [ocho-landing](https://github.com/Clueless-Creations/ocho-landing) — pre-launch landing
 
-## How It Works
+## Shade Diary
 
-Every tool we publish started as an internal capability. When something proves useful enough, we extract it as a standalone open-source project. The portfolio generates real products; the tooling compounds across all of them.
+Still on the personal account until a GitHub Team seat is free for collaborator `CaobaSativa`:
 
-We build primarily with Python, Dart/Flutter, TypeScript, and Swift. Our agent infrastructure runs on the [Model Context Protocol (MCP)](https://modelcontextprotocol.io).
+- [shade-diary-business](https://github.com/Emuthmartinez/shade-diary-business)
+- [shade-diary-mobile-app](https://github.com/Emuthmartinez/shade-diary-mobile-app)
 
-## Our Stack
+## Company
 
-**Open source:**
-[Flutter](https://github.com/flutter/flutter) (mobile apps) -- [Supabase](https://github.com/supabase/supabase) (database and auth) -- [Riverpod](https://github.com/rrousselGit/riverpod) (Flutter state management) -- [Postiz](https://github.com/gitroomhq/postiz-app) (social media scheduling) -- [PostHog](https://github.com/PostHog/posthog) (product analytics)
+- [clueless-creations-site](https://github.com/Clueless-Creations/clueless-creations-site) — clueless-creations.com
+- [clueless-creations-business](https://github.com/Clueless-Creations/clueless-creations-business)
+- [compounding-founder-business](https://github.com/Clueless-Creations/compounding-founder-business) — [The Compounding Founder](https://thecompoundingfounder.substack.com)
 
-**Paid services:**
-[Anthropic Claude](https://anthropic.com) (AI agent runtime) -- [OpenAI Codex](https://openai.com/codex) (AI coding agent) -- [Stripe](https://stripe.com) (payments) -- [RevenueCat](https://revenuecat.com) (subscriptions) -- [Notion](https://notion.so) (planning and review surface) -- [Substack](https://substack.com) (newsletter) -- [MobAI](https://mobai.dev) (mobile device automation) -- [Xpoz](https://xpoz.app) (social intelligence) -- [Firecrawl](https://firecrawl.dev) (web scraping) -- [AppFigures](https://appfigures.com) (app intelligence) -- [Mercury](https://mercury.com) (banking) -- [Wispr Flow](https://wispr.com) (voice-to-text) -- [Google Cloud](https://cloud.google.com) (infrastructure) -- [App Store Connect](https://appstoreconnect.apple.com) (iOS app distribution) -- [Google Play Console](https://play.google.com/console) (Android app distribution)
+## Tools
 
-**Dev tools:**
-[Xcode](https://developer.apple.com/xcode/) -- [Claude Code](https://claude.ai/claude-code) -- [Rork](https://rork.app) -- Git -- GitHub
+- [app-store-connect-mcp](https://github.com/Clueless-Creations/app-store-connect-mcp)
+- [google-play-store-mcp](https://github.com/Clueless-Creations/google-play-store-mcp)
+- [riverpod-knowledge-graph](https://github.com/Clueless-Creations/riverpod-knowledge-graph)
+- [retention-mechanics-mcp](https://github.com/Clueless-Creations/retention-mechanics-mcp)
 
-## Connect
+## Personal / Mallanet
 
-- [X / Twitter](https://x.com/EduMuthMartinez)
-- [LinkedIn](https://www.linkedin.com/in/eduardomuthmartinez)
-- [The Compounding Founder](https://thecompoundingfounder.substack.com)
-- [Clueless Clothing](https://clueless.clothing)
+Personal work (Formation, [edumartinez.ai](https://edumartinez.ai)) stays on [Emuthmartinez](https://github.com/Emuthmartinez). Disaster-relief work lives in [mallanet](https://github.com/mallanet) plus [Mallanet-org](https://github.com/Mallanet-org).
