@@ -10,7 +10,6 @@ GitHub has no repo folders. Products are grouped with [teams](https://github.com
 - [clueless_clothing_backend](https://github.com/Clueless-Creations/clueless_clothing_backend) — API
 - [clueless_clothing_web](https://github.com/Clueless-Creations/clueless_clothing_web) — marketing site
 - [clueless_clothing_dashboard](https://github.com/Clueless-Creations/clueless_clothing_dashboard) — analytics
-- [clueless-clothing-business](https://github.com/Clueless-Creations/clueless-clothing-business) — business workspace
 
 Site: [clueless.clothing](https://clueless.clothing)
 
